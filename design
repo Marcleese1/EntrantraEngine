@@ -1,0 +1,32 @@
+WHAT WILL GO INTO THE ENGINE
+
+Entry Point
+	Launch application what happens
+	
+Application Layer
+	deals with application life cycle and events (run loops ect)
+
+window layer
+	-input
+	-events
+
+renderer
+
+render API abstraction
+
+Debugging support.
+
+scripting language
+
+memory systems
+
+entity component system (ecs)
+
+physics 
+
+File I/O, VFS
+
+Build System
+
+
+	
